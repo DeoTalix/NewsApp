@@ -20,12 +20,11 @@
             android:text="Обновить" />
 
 
-        <ListView
+        <androidx.recyclerview.widget.RecyclerView
             android:id="@+id/feed_list"
             android:layout_width="match_parent"
-            android:layout_height="match_parent">
+            android:layout_height="wrap_content"/>
 
-        </ListView>
     </LinearLayout>
 
 </FrameLayout>

@@ -48,4 +48,6 @@ dependencies {
     implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0"
 
     implementation "com.android.support:recyclerview-v7:28.*"
+
+    implementation "com.squareup.picasso:picasso:2.5.2"
 }
